@@ -1,2 +1,4 @@
 # new1
-just to learn
+just to learn git and github
+
+
